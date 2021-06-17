@@ -1,0 +1,2 @@
+# bluefullpage
+Created with CodeSandbox
