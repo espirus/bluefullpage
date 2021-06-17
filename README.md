@@ -1,2 +1,1 @@
-# bluefullpage
-Created with CodeSandbox
+# recent-searches-demo
